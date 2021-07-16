@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A2R4I
 - 👀 I’m interested in learning and mastering Software Engineering
-- 🌱 I’m currently applying bootcamps; particulary, Columbia Coding Engineering. Can anyone tell me anything about this bootcamp? Thank you!
+- 🌱 I’m currently applying to bootcamps; particulary, Columbia Coding Engineering. Can anyone tell me anything about this bootcamp? Thank you!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through message.
 
