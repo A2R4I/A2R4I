@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and mastering Software Engineering
 - 🌱 I’m currently applying to bootcamps; particulary, Columbia Coding Engineering. Can anyone tell me anything about this bootcamp? Thank you!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through message.
+- 📫 How to reach me: through message.
 
 <!---
 A2R4I/A2R4I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
